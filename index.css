@@ -1,0 +1,57 @@
+body{
+    background-image: url(./IMAGENS/16.jpg);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-academia input{
+background-color:#04452d ;
+color: brown;
+font-size: 20px;
+text-align: center;
+
+}
+
+.form-academia input::placeholder{
+    font-size: 20px;
+    background-color: #03422b;
+    color:#e9f2f9 ;
+    
+}
+
+.form-academia label{
+    font-size: 20px;
+    color:#e9f2f9 ;
+    
+}
+
+.DDD{
+    color:#e9f2f9 ;
+    background-color:#043b0a ;
+    font-size: 20px;
+
+}
+
+.botao-enviar input{
+    background-color:#959796 ;
+    color:#e9f2f9 ;
+}
+
+
+    
+.botao-enviar input:hover{
+    transition: 3s;
+    font-size: 20px;
+    text-align: center;
+    background-color:#de4f15 ;
+}
+
+h1{
+    color:#e9f2f9 ;
+    text-align: center;
+}
+
+h2{
+    color:#e9f2f9 ;
+    text-align: center;
+}
